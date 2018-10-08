@@ -117,7 +117,7 @@ for (var i = 0; i < jedis.length; i++) {
 document.body.appendChild(ul);
 ```
 
-The <ul> part of the script is much more concise, so make sure you fully understand it. We just use a for loop and 3 Arrays to create the unordered list. 
+The `<ul>` part of the script is much more concise, so make sure you fully understand it. We just use a for loop and 3 Arrays to create the unordered list. 
 
 We managed to create an HTML page by writing Javascript code. If you inspect the page in the DevTools you’ll realize that it’s not exactly the same with the one we wrote in the last tutorial. All the ids and class name’s are missing. That’s what we are going to do in the next tutorial. 
 
