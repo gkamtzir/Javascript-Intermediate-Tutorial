@@ -54,7 +54,7 @@ As I mentioned before, with Javascript we can manipulate the web page through th
 ```
 Save this code in a file and open it on your browser. Then, open DevTools. Go to the console tab and type: document. Then click on the object that gets returned. It’s page’s code, right? So, we can access the DOM by using the document object. Nice, but what do we do when we need only a part of it, only a node? We use specific functions that are included in the same object to retrieve it. 
 
-There are 5 different functions we can utilize to achieve our goal. The first one is the getElementById() function, which helps us grab an element with a specific id. Let’s grab the <h1> element and store it in a variable:
+There are 5 different functions we can utilize to achieve our goal. The first one is the getElementById() function, which helps us grab an element with a specific id. Let’s grab the `<h1>` element and store it in a variable:
 
 ```javascript
 var h1 = document.getElementById('title');
@@ -88,7 +88,7 @@ var jedis = document.getElementsByTagName('li');
 console.log(jedis);
 ```
 
-The fourth and fifth functions are much more flexible compared to the previous ones. These are the querySelector() and the querySelectorAll(). With the querySelector() we can easily fetch only the second <li> element:
+The fourth and fifth functions are much more flexible compared to the previous ones. These are the querySelector() and the querySelectorAll(). With the querySelector() we can easily fetch only the second `<li>` element:
 
 ```javascript
 var yoda = document.querySelector('ul li:nth-child(2)');
