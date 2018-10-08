@@ -1,4 +1,4 @@
-# Javascript-Tutorial
+# Javascript-Intermediate-Tutorial
 
 This is a series of tutorials on the Javascript programming language. It covers the basic parts of the language and is well suited for beginners.
 
