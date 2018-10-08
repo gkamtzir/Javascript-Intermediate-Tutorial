@@ -31,19 +31,19 @@ Every node in the DOM tree has some kind of relationship with some other node. T
 </html>
 ```
 
-In this DOM tree, the top node is called 'root node'. In other words, the <html> node is the root node of the tree. Each other node can have a parent node (only one!), child nodes and sibling nodes. Notice, that the root node is the only one that has no parent. 
+In this DOM tree, the top node is called 'root node'. In other words, the `<html>` node is the root node of the tree. Each other node can have a parent node (only one!), child nodes and sibling nodes. Notice, that the root node is the only one that has no parent. 
 
-Let’s figure out the different relationships in this tree. The root node (<html>) has two children: the <head> and the <body>. These nodes are siblings. Each of these have their own children. For example the <head> has a child: the <title>. The <body> node has as children all the nodes that we’ve worked with in the past. Almost all of the nodes inside the <body> section of the page, see the <body> as their parent. I said 'almost' because the <li> nodes are not direct children of the <body> node. Their parent is the <ul> node. 
+Let’s figure out the different relationships in this tree. The root node (`<html>`) has two children: the `<head>` and the `<body>`. These nodes are siblings. Each of these have their own children. For example the `<head>` has a child: the `<title>`. The <body> node has as children all the nodes that we’ve worked with in the past. Almost all of the nodes inside the `<body>` section of the page, see the `<body>` as their parent. I said 'almost' because the `<li>` nodes are not direct children of the `<body>` node. Their parent is the `<ul>` node. 
 
 By now you should be able to understand each and every relationship between the various nodes. It’s not that hard, is it? 
 
-So, how can we navigate from one node to the other using these relationships? Let’s say that we want to get a reference to the <html> node from the <body> node. We, surely, know that <body> is <html>’s child, so we can do:
+So, how can we navigate from one node to the other using these relationships? Let’s say that we want to get a reference to the `<html>` node from the `<body>` node. We, surely, know that `<body>` is `<html>`’s child, so we can do:
 
 ```javascript
 console.log(document.body.parentElement);
 ```
 
-We can, also, see <body>’s children by doing: 
+We can, also, see `<body>`’s children by doing: 
 
 ```javascript
 console.log(document.body.children);
