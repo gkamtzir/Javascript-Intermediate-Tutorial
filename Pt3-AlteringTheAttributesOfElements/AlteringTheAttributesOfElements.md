@@ -32,7 +32,7 @@ Below is the HTML code that we created dynamically using Javascript. The structu
 </html>
 ```
 
-To add an attribute to an existing element, you have to use the setAttribute() function. This function accepts 2 arguments: the first is the name of the attribute to be added and the second is the value of that attribute. So, to add an id of 'title' to the <h1> tag we should do: 
+To add an attribute to an existing element, you have to use the setAttribute() function. This function accepts 2 arguments: the first is the name of the attribute to be added and the second is the value of that attribute. So, to add an id of 'title' to the `<h1>` tag we should do: 
 
 ```javascript
 var h1 = document.querySelector('h1');
@@ -40,7 +40,7 @@ var h1 = document.querySelector('h1');
 h1.setAttribute('id', 'title');
 ```
 
-We can also retrieve the value of a specific attribute by using the getAttribute() function. This function accepts 1 argument: the name of the attribute. To get the id value of <h1>’s tag we can do: 
+We can also retrieve the value of a specific attribute by using the getAttribute() function. This function accepts 1 argument: the name of the attribute. To get the id value of `<h1>`’s tag we can do: 
 
 ```javascript
 console.log(h1.getAttribute('id'));
@@ -87,7 +87,7 @@ I’m going to create some basic CSS rules for the classes and ids we want to us
 }
 ```
 
-Don’t forget to link this CSS file to our HTML file by adding the following line just before the closing <head> tag.
+Don’t forget to link this CSS file to our HTML file by adding the following line just before the closing `<head>` tag.
 
 ```html
 <link rel="stylesheet" href="main.css" />
