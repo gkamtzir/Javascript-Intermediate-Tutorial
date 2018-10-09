@@ -1,3 +1,7 @@
+## Creating and Adding Elements to the DOM
+
+![Tutorial image](https://2.bp.blogspot.com/-uXaskQz4WcM/W26sk2dxQ4I/AAAAAAAABDc/yaWb3MSMxQcNldg428EbCps7Gi8I5DfggCLcBGAs/s1600/Javascript-Intermediate-2.png)
+
 Hello and welcome to another Javascript Tutorial. In this one, you will learn how to create elements and append them to the DOM with the help of Javascript. That’s right, we will structure our web page’s body without writing HTML code. Sounds awesome! Let’s begin! 
 
 The first step in this tutorial is to create a simple HTML file, with an empty body tag: 
