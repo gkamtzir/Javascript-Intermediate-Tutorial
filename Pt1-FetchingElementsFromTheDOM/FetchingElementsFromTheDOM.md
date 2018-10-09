@@ -1,3 +1,7 @@
+## Fetching Elements from the DOM
+
+![Tutorial image](https://2.bp.blogspot.com/-u9lyY7YpnuA/W22SOanRZBI/AAAAAAAABDE/noPEyp_pZHcRMv-XSs3owU3RneGImRnzwCLcBGAs/s1600/Javascript-Intermediate-1.png)
+
 Hello and welcome to our very first Javascript intermediate tutorial. In this particular tutorial you’ll learn about the DOM and how to get HTML elements from it, using Javascript. Sit tight and enjoy! 
 
 So, what exactly is the DOM? DOM stands for Document Object Model and is a programming interface which helps us work with web pages. Essentially, a web page is a document and the DOM is just a representation of that document. I’m sure you’re still confused, but fear not! Keep reading! 
