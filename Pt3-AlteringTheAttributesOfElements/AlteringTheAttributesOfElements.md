@@ -1,3 +1,7 @@
+## Altering the Attributes of Elements
+
+![Tutorial image](https://2.bp.blogspot.com/-aBD12Ruas4U/W27kUe26THI/AAAAAAAABD0/1UPJlFSDlFkGUZwXPC-rk2LlZCH8Vf1XgCLcBGAs/s1600/Javascript-Intermediate-3.png)
+
 Hello and welcome to another Javascript tutorial. Today, you will learn how to add, delete and alter the attributes of a HTML element. In the previous tutorial, we built the structure of a HTML page. It is time to add the appropriate classes and ids. 
 
 Below is the HTML code that we created dynamically using Javascript. The structure is, now, hardcoded because we want to avoid the extra Javascript code (from the last tutorial) for clarity reasons. 
