@@ -1,3 +1,7 @@
+## Relationships Between Elements
+
+![Tutorial image](https://3.bp.blogspot.com/--gfUARAeyXo/W2_--QJU2DI/AAAAAAAABEI/eJqVPiEy5lYyjHz_J_di1JeRQi6G4NqtQCLcBGAs/s1600/Javascript-Intermediate-4.png)
+
 Hello and welcome to another Javascript Tutorial. In this tutorial, you will learn about the different relationships between the nodes and how to navigate from one to the other. Without further ado, let’s begin! 
 
 Every node in the DOM tree has some kind of relationship with some other node. These relationships are described using the following terms: parent, child and sibling. Take a look below. This is the HTML code from the previous tutorials. Open it on your browser and inspect it on the DevTools. 
