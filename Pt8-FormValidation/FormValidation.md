@@ -1,3 +1,7 @@
+## Form Validation
+
+![Tutorial image](https://4.bp.blogspot.com/-314U39S3noM/W4J3T9vb8mI/AAAAAAAABF8/bAnX5714ooc_wj6fEDPpUJbjhH3QaKU9ACLcBGAs/s1600/Javascript-Intermediate-8.png)
+
 Hello and welcome to another Javascript Tutorial. Today, we are going to take a look at data validation. Let’s get started! 
 
 In the previous posts, we’ve managed to build the following codebase: 
