@@ -1,3 +1,7 @@
+## Alerts and Form Submission
+
+![Tutorial image](https://2.bp.blogspot.com/-Z2XOKZgk34M/W4aMEin0y1I/AAAAAAAABGU/9Pj3LmZx5MIb33bzqlFJ_kPfCCX18tFRACLcBGAs/s1600/Javascript-Intermediate-9.png)
+
 Hello and welcome to the last Javascript intermediate tutorial. In this tutorial, we will complete our web application by displaying warning/error messages to the user and, also, submitting our form to a real API. Let’s get started!
 
 We can check in the console if a specific value is valid, but that’s not user friendly at all. Instead, we should display a beautiful message to the user, explaining what’s right or wrong. For this purpose, we can construct a function: 
