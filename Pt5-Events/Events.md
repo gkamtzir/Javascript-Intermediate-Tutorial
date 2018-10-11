@@ -1,3 +1,7 @@
+## Events
+
+![Tutorial image](https://4.bp.blogspot.com/-fSKg9RlfpmA/W3GCqxeKIoI/AAAAAAAABEg/ReOxbL2f9KMOqk0mX8Zw5cx6lO5egCUJQCLcBGAs/s1600/Javascript-Intermediate-5.png)
+
 Hello and welcome to another Javascript tutorial. Today, we will take a look at the different events that we can bind (and unbind) to any HTML element. Let’s begin! 
 
 Until now, we were able to create web pages using Javascript. We learned how to fetch, add and remove elements. We, also, understood the relationships between the various elements (nodes) and how to navigate from one to the other. But, as you probably have realized our web pages are not interactive. They are, just, simple ‘vanilla’ pages. 
