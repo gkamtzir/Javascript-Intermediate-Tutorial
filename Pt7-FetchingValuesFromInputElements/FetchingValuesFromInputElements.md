@@ -1,3 +1,7 @@
+## Fetching Values from Input Elements
+
+![Tutorial image](https://1.bp.blogspot.com/-NZWQpxYpbmU/W31LnZ46IkI/AAAAAAAABFs/tlEOPQ61V3cAHge6zu2nkpfoqRygaMOmgCLcBGAs/s1600/Javascript-Intermediate-7.png)
+
 Hello and welcome to another Javascript tutorial. In today’s post, we will see how to fetch the needed values from the input elements. Let’s get started! 
 
 At the moment, the only file we have is the HTML file shown below: 
