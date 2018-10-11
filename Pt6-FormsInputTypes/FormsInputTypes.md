@@ -1,3 +1,7 @@
+## Form's Input Types
+
+![Tutorial image](https://2.bp.blogspot.com/-cU1xLlensRw/W3W0OQS_scI/AAAAAAAABE0/G5pScZ_-IbQokczbFtMQmuWDm7kN0FlKACLcBGAs/s1600/Javascript-Intermediate-6.png)
+
 Hello and welcome to another Javascript tutorial. In the last 5 tutorials, we learned about the DOM and how to work with it. Although, these tutorials had many code samples, they were not so practical. The code snippets were used just to demonstrate how a particular utility worked. Nothing more. In the next 4 tutorials, we will get our hands on a much more practical project. We are going to design a task assigning form. The user, in our case the admin only, will be able to assign tasks to a particular user. A task consist of the following:
 
 *title: The title of the task 
